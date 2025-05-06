@@ -3,10 +3,10 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
-[[routes]] = 
+[[routes]] 
 pattern = "sv2.xadal.my.id"
 custom_domain = true 
-[[routes]] = 
+[[routes]] 
 pattern = "untar.ac.id.sv2.xadal.my.id"
 custom_domain = true 
    
